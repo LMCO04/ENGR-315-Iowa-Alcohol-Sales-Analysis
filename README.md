@@ -1,4 +1,4 @@
-# ENGR-315-Project-Iowa-Alcohol-Sales-Analysis
+# Iowa-Alcohol-Sales-Analysis-ENGR-315
 ## Created by: Lucas Colonna, Abby Molloy, and Kevin Kabasele
 
 ## Motivation For This Analysis
